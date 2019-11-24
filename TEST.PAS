@@ -1,0 +1,2 @@
+     MessageDlg('File Number ' + mfile + ' - has been withdrawn by: ' + muser + ' on the ' +  tbl_Record.FieldByName('IssuedOn').AsString + ', the System has reserved the File for you',mtInformation,[mbOK],0);
+

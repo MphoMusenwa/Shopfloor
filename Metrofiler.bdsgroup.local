@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/03/27 16:10:42.188.bdsgroup,C:\Metrofile\MetroDev\MetroFiler\SQL-Server Versions\V4_00\Metrofiler.bdsgroup=C:\Metrofile\MetroDev\MetroFiler\SQL-Server Versions\V4_00\Metrofiler.bdsgroup</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="MetSQL.exe"/>
+	</Default.Personality>
+	<IPServerDescMap></IPServerDescMap>
+	<StarTeamShortcuts>; 1; 0; False; 0; -1; </StarTeamShortcuts>
+	<StarTeamMiscUserData></StarTeamMiscUserData>
+</BorlandProject>
